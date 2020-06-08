@@ -1,4 +1,4 @@
 # Tools path
+* [Command Line](cli)
 * [Git](git)
-* [Vagrant](vagrant)
-* Vim
+* [Docker](docker)
